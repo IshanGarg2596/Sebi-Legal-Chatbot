@@ -1,5 +1,5 @@
 .env
-./.venv
-./processed_chunks
-./processed_markdown
-./processed_embeddings
+./.venv/
+./processed_chunks/
+./processed_markdown/
+./processed_embeddings/
